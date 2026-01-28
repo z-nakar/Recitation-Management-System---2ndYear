@@ -1,0 +1,186 @@
+C:\Users\Acer\Desktop\COMP 009 (OOP)\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.exe
+C:\Users\Acer\Desktop\COMP 009 (OOP)\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.deps.json
+C:\Users\Acer\Desktop\COMP 009 (OOP)\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.runtimeconfig.json
+C:\Users\Acer\Desktop\COMP 009 (OOP)\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.dll
+C:\Users\Acer\Desktop\COMP 009 (OOP)\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.pdb
+C:\Users\Acer\Desktop\COMP 009 (OOP)\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.Properties.Resources.resources
+C:\Users\Acer\Desktop\COMP 009 (OOP)\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\COMP 009 (OOP)\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\COMP 009 (OOP)\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\COMP 009 (OOP)\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.AssemblyInfo.cs
+C:\Users\Acer\Desktop\COMP 009 (OOP)\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\COMP 009 (OOP)\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.dll
+C:\Users\Acer\Desktop\COMP 009 (OOP)\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\refint\Prof_Registration.dll
+C:\Users\Acer\Desktop\COMP 009 (OOP)\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.pdb
+C:\Users\Acer\Desktop\COMP 009 (OOP)\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.genruntimeconfig.cache
+C:\Users\Acer\Desktop\COMP 009 (OOP)\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\ref\Prof_Registration.dll
+C:\Users\Acer\Desktop\COMP 009 (OOP)\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.SignIn.resources
+C:\Users\Acer\Desktop\COMP 009 (OOP)\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.SignUp.resources
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.exe
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.deps.json
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.runtimeconfig.json
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.dll
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.pdb
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.Properties.Resources.resources
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.SignIn.resources
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.SignUp.resources
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.csproj.GenerateResource.cache
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.AssemblyInfoInputs.cache
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.AssemblyInfo.cs
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.csproj.CoreCompileInputs.cache
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.dll
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\refint\Prof_Registration.dll
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.pdb
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.genruntimeconfig.cache
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\ref\Prof_Registration.dll
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.csproj.AssemblyReference.cache
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Reg.140A7969.Up2Date
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.Dashboard.resources
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.CreateClass.resources
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.ManageStudent.resources
+C:\Users\xaire\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.Points.resources
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.exe
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.deps.json
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.runtimeconfig.json
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.dll
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.pdb
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.csproj.AssemblyReference.cache
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.CreateClass.resources
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.Dashboard.resources
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.ManageStudent.resources
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.Points.resources
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.Properties.Resources.resources
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.SignIn.resources
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.SignUp.resources
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.csproj.GenerateResource.cache
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.AssemblyInfoInputs.cache
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.AssemblyInfo.cs
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.csproj.CoreCompileInputs.cache
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Reg.140A7969.Up2Date
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.dll
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\refint\Prof_Registration.dll
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.pdb
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.genruntimeconfig.cache
+C:\Users\xtian\OneDrive\Desktop\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\ref\Prof_Registration.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\refint\Prof_Registration.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.pdb
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.exe
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.deps.json
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.runtimeconfig.json
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.pdb
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.CreateClass.resources
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.Dashboard.resources
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.ManageStudent.resources
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.Points.resources
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.SignIn.resources
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.SignUp.resources
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Reg.140A7969.Up2Date
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\PROJECTS\Prof_Registration\Prof_Registration\obj\Debug\net6.0-windows\ref\Prof_Registration.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.exe
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.deps.json
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.runtimeconfig.json
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\Prof_Registration.pdb
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.CreateClass.resources
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.Dashboard.resources
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.ManageStudent.resources
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.Points.resources
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.SignIn.resources
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.SignUp.resources
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\obj\Debug\net6.0-windows\Prof_Reg.140A7969.Up2Date
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\obj\Debug\net6.0-windows\refint\Prof_Registration.dll
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.pdb
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\PROJECTS\Prof_System\Prof_Registration\obj\Debug\net6.0-windows\ref\Prof_Registration.dll
+C:\Users\xtian\OneDrive\Desktop\New folder\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.csproj.AssemblyReference.cache
+C:\Users\xtian\OneDrive\Desktop\New folder\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.dll
+C:\Users\xtian\OneDrive\Desktop\New folder\Prof_Registration\obj\Debug\net6.0-windows\refint\Prof_Registration.dll
+C:\Users\xtian\OneDrive\Desktop\New folder\Prof_Registration\obj\Debug\net6.0-windows\Prof_Registration.pdb
